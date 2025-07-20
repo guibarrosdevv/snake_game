@@ -45,5 +45,5 @@ Um jogo clássico da cobrinha recriado com **HTML**, **CSS** e **JavaScript puro
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/snake-game.git
+git clone https://github.com/guibarrosdevv/snake_game.git
 Abra o arquivo index.html no navegador.
